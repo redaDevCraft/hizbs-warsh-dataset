@@ -1,0 +1,49 @@
+{
+  "name": "hizbs-warsh-dataset",
+  "version": "1.0.0",
+  "description": "A lightweight dataset of the Qur’an Hizb divisions, available in multiple formats (JSON, XML, CSV, and SQL). This package provides the 60 hizbs of the Qur’an with both top-down and bottom-up numbering, making it easy to integrate into Islamic apps, educational platforms, or research projects.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redaDevCraft/hizbs-warsh-dataset.git"
+  },
+  "keywords": [
+    "quran",
+    "hizb",
+    "hizbs",
+    "islam",
+    "islamic",
+    "muslim",
+    "quran-data",
+    "quran-dataset",
+    "quran-json",
+    "quran-xml",
+    "quran-csv",
+    "quran-sql",
+    "islamic-app",
+    "quran-division",
+    "quran-hizb",
+    "quran-package",
+    "quran-api",
+    "quran-library",
+    "islamic-dataset",
+    "islamic-data",
+    "islamic-education",
+    "quran-study",
+    "quran-learning",
+    "quran-developers",
+    "islamic-apps",
+    "islamic-software",
+    "quran-resources"
+  ],
+  "author": "Taleb Mohammed Reda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/redaDevCraft/hizbs-warsh-dataset/issues"
+  },
+  "homepage": "https://github.com/redaDevCraft/hizbs-warsh-dataset#readme"
+}

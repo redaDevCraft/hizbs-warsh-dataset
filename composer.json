@@ -1,0 +1,45 @@
+{
+    "name": "redadevcraft/quran-hizb-data",
+    "description": "A lightweight dataset of the Qur'an Hizb divisions, available in multiple formats (JSON, XML, CSV, and SQL). This package provides the 60 hizbs of the Qur'an with both top-down and bottom-up numbering, making it easy to integrate into Islamic apps, educational platforms, or research projects.",
+    "type": "library",
+    "license": "MIT",
+    "keywords": [
+        "quran",
+        "hizb",
+        "islam",
+        "islamic",
+        "arabic",
+        "dataset",
+        "warsh",
+        "recitation",
+        "hizbs",
+        "quranic-data"
+    ],
+    "homepage": "https://github.com/redadevcraft/hizbs-warsh-dataset",
+    "authors": [
+        {
+            "name": "Taleb Mohammed Reda",
+            "email": "talebmedreda@gmail.com",
+            "homepage": "https://github.com/redadevcraft",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.4",
+        "ext-json": "*"
+    },
+    "suggest": {
+        "ext-simplexml": "Required for XML export functionality"
+    },
+    "autoload": {
+        "psr-4": {
+            "QuranData\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "config": {
+        "optimize-autoloader": true,
+        "sort-packages": true
+    }
+}
