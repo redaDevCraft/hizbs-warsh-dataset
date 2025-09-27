@@ -5,7 +5,7 @@ A comprehensive dataset of the Qur'an Hizb divisions, available in multiple form
 ## Features
 
 - **Complete Dataset**: All 60 hizbs of the Qur'an
-- **Multiple Formats**: JSON, XML, SQL, and CSV
+- **Multiple Formats**: JSON, XML and SQL
 - **Dual Numbering**: Both up-to-down (1-60) and down-to-top (1-60) ordering
 - **Multi-Language Support**: JavaScript/Node.js and PHP implementations
 - **Rich Metadata**: Each hizb includes name, start/end surahs, ayahs, and descriptions
