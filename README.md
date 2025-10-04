@@ -8,10 +8,7 @@ Important **Disclaimer / تنبيه مهم**
 > - The author is **not** a religious scholar; the author is a computer science specialist.
 > - Use this dataset as a data/tooling resource for software development, research, and
 >   educational applications; do not rely on it as a religious or jurisprudential reference.
->
-> يقدم تفسيراً أو أحكاماً شرعية للقرآن الكريم. هذه البيانات مُقدمة كمورد تقني فقط.
->
-> - هذا المشروع لا
+> - هذا المشروع لا يقدم تفسيراً أو أحكاماً شرعية للقرآن الكريم. هذه البيانات مُقدمة كمورد تقني فقط
 > - صاحب المشروع ليس عالِماً دينياً؛ هو متخصص في علوم الحاسوب.
 >   وأداة تقنية للتطوير والبحث والتعليم ولا يُعتد به كمصدر فقهي أو تفسير شرعي.
 
