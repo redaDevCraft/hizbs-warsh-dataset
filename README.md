@@ -1,7 +1,7 @@
 # Hizbs Warsh Dataset
 
 ![License: MIT](https://img.shields.io/badge/license-MIT-blue)
-< Important **Disclaimer / تنبيه مهم**
+Important **Disclaimer / تنبيه مهم**
 
 > - This project does **not** provide tafsir (interpretation) or religious rulings of the
 >   Qur'an. The dataset is intended strictly as a technical resource.
@@ -10,11 +10,12 @@
 >   educational applications; do not rely on it as a religious or jurisprudential reference.
 >
 > يقدم تفسيراً أو أحكاماً شرعية للقرآن الكريم. هذه البيانات مُقدمة كمورد تقني فقط.
-> < - هذا المشروع لا
-> < - صاحب المشروع ليس عالِماً دينياً؛ هو متخصص في علوم الحاسوب.
-> وأداة تقنية للتطوير والبحث والتعليم ولا يُعتد به كمصدر فقهي أو تفسير شرعي.
+>
+> - هذا المشروع لا
+> - صاحب المشروع ليس عالِماً دينياً؛ هو متخصص في علوم الحاسوب.
+>   وأداة تقنية للتطوير والبحث والتعليم ولا يُعتد به كمصدر فقهي أو تفسير شرعي.
 
-## < - يُستخدم هذا المشروع كمجموعة بيانات
+## - يُستخدم هذا المشروع كمجموعة بيانات
 
 ## Overview / نظرة عامة
 
@@ -118,15 +119,15 @@ represented as numeric indices or as text depending on the export format.
 
 ```json
 {
-  "id": 60,
-  "name": "■■■ - ■■■■■■",
-  "start_surah": "■■■■■■",
-  "start_ayah_number": 1,
-  "end_surah": "■■■■■",
-  "end_ayah_number": 6,
+  "id": 1,
+  "name": "سبح - الأعلى",
+  "start_surah": "الأعلى",
+  "start_ayah": "سسَبِّحِ اِ۪سْمَ رَبِّكَ اَ۬لَاعْلَي",
+  "end_surah": "الناس",
+  "end_ayah": "مِنَ اَ۬لْجِنَّةِ وَالنَّاسِۖ",
   "order_up_to_down": 60,
   "order_down_to_top": 1,
-  "description": "■■■■■ ■■■■■■ ■■ ■■■■■■ ■■■■■■■ ■■■■ ■■ ■■■■ ■■■■■■ ■■■■■ ■■■ ■■■■■ ■■■■■■ ■■■■■■ ■■■■■ ■■■■■ ■■■■■■■ ■■ ■■■■■ ■■■■■■"
+  "description": "الحزب الستون من القرآن الكريم، يبدأ من سورة الأعلى ويمتد إلى نهاية القرآن بسورة الناس، ويشمل السور القصيرة في الجزء الأخير"
 }
 ```
 
