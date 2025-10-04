@@ -270,7 +270,7 @@ class HisbProvider
     {
         $hizbs = self::getAllHizbs();
         $xml = new \SimpleXMLElement('<hizbs/>');
-        
+                
         foreach ($hizbs as $hizbData) {
             $hizb = $xml->addChild('hizb');
             foreach ($hizbData as $key => $value) {
